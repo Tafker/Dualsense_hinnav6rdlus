@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+.env
+.venv
+venv/
+*.egg-info/
+
+# Playwright
+playwright-report/
+test-results/
+
+# Projekt
+out/
+debug_*.html
+*.db
+*.cache
+
+# OS
+.DS_Store
+Thumbs.db
